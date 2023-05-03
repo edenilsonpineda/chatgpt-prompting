@@ -1,6 +1,12 @@
 # 👋 ChatGPT-Prompting for Developers
 
-This project uses OpenAI's API to perform natural language processing tasks. 
+This project uses OpenAI's API to perform natural language processing tasks.
+
+
+| Resources |           | 
+| ------ | ---------- | 
+| 🇸🇻 📚  | [Documentación en Español](./docs/README_ES.md)|
+
 
 ## 🚀 Prerequisites
 
